@@ -1,9 +1,9 @@
 <?php 
 
 $server = "localhost";
-$user = "root";
-$pass = "";
-$database = "login_register_pure_coding";
+$user = "aziret";
+$pass = "aZiret12a";
+$database = "testing";
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 
